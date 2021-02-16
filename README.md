@@ -1,1 +1,1 @@
-# caneoto.github.io
+# .github.io
